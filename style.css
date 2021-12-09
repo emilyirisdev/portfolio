@@ -27,42 +27,6 @@ h3 {
   background-color: white;
 }
 
-.top-cloud {
-  max-width: 15%;
-  margin-left: 60%;
-  margin-top: 100px;
-  height: auto;
-}
-
-.bottom-cloud {
-  max-width: 15%;
-  height: auto;
-  position: absolute;
-}
-
-.mountains {
-  margin-top: 150px;
-}
-
-.computer {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.palette {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.skill-row {
-  margin: 100px auto;
-  width: 50%;
-  text-align: left;
-  line-height: 2;
-}
-
 .footer-link {
   color: #11999E;
 }
